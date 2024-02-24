@@ -1,7 +1,6 @@
-My Password Generator :
+My Password Generator:
 
-    My Password Genertor is a simple web application that allows users to generate strong passwords with various options such as uppercase letters, lowercase letters, special symbols, and numbers. 
-    Users can customize the length of the password and select which character sets to include, providing flexibility and security in generating unique passwords.
+My Password Generator is a simple web application that allows users to generate strong passwords with various options such as uppercase letters, lowercase letters, special symbols, and numbers. Users can customize the length of the password and select which character sets to include, providing flexibility and security in generating unique passwords.
 
 Features :
 
