@@ -5,7 +5,8 @@ My Password Generator is a simple web application that allows users to generate 
 
 Get Started:
 
-    You can access the My Password Generator application https://generatemypassword-v1.netlify.app/.
+    You can access the My Password Generator application : 
+https://generatemypassword-v1.netlify.app/
 
 Features :
 
