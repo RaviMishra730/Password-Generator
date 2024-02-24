@@ -80,8 +80,9 @@ function calcStrength() {
 async function copyContent() {
     try {
         await navigator.clipboard.writeText(passwordDisplay.value);
+        copyMsg.innerText = "Copied";
     } catch (e) {
-        copyMsg.innerText = "Unable to Copy";
+        copyMsg.innerText = "Failed to Copy"
     }
     copyMsg.classList.add("active");
     setTimeout(() => {
